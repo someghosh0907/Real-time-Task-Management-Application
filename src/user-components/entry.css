@@ -1,0 +1,16 @@
+.box0{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    display:inline-block;
+    justify-content: center;
+    padding-left: 35px;
+    height: 20rem;
+    width: 20rem;
+    background-color: rgb(63, 112, 114);
+    border: 5px;
+    border-style: solid;
+}
+
